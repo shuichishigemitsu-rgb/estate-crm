@@ -1,0 +1,263 @@
+{
+  "U3f7e008774b6d3cd3e5400cfc6c1be0": [
+    {
+      "sender": "customer",
+      "text": "テスト",
+      "timestamp": "2026-11-13T03:11:00.000Z"
+    },
+    {
+      "sender": "customer",
+      "text": "テストバック",
+      "timestamp": "2026-11-13T03:11:02.000Z"
+    }
+  ],
+  "U3f7e008774b6d3dcd3e5400cfc6c1be0": [
+    {
+      "sender": "customer",
+      "text": "はい",
+      "timestamp": "2026-11-13T03:15:07.197Z"
+    },
+    {
+      "sender": "staff",
+      "text": "こんにちは",
+      "timestamp": "2026-11-13T03:15:35.844Z"
+    },
+    {
+      "sender": "customer",
+      "text": "こんにちは",
+      "timestamp": "2026-11-13T03:17:56.567Z"
+    },
+    {
+      "sender": "staff",
+      "text": "HI",
+      "timestamp": "2026-11-13T03:18:08.351Z"
+    },
+    {
+      "sender": "staff",
+      "text": "【メール送信】\nHI",
+      "timestamp": "2026-11-13T03:18:10.689Z"
+    },
+    {
+      "sender": "staff",
+      "text": "こんにちは",
+      "timestamp": "2026-11-13T03:26:27.423Z"
+    },
+    {
+      "sender": "staff",
+      "text": "【メール送信】\nこんにちは",
+      "timestamp": "2026-11-13T03:26:29.762Z"
+    },
+    {
+      "sender": "staff",
+      "text": "お疲れ様です",
+      "timestamp": "2026-11-13T03:37:28.968Z"
+    },
+    {
+      "sender": "staff",
+      "text": "【メール送信】\nお疲れ様です",
+      "timestamp": "2026-11-13T03:37:31.317Z"
+    },
+    {
+      "sender": "staff",
+      "text": "お昼まだ？",
+      "timestamp": "2026-11-13T03:39:06.898Z"
+    },
+    {
+      "sender": "staff",
+      "text": "【メール送信】\nお昼まだ？",
+      "timestamp": "2026-11-13T03:39:09.078Z"
+    },
+    {
+      "sender": "staff",
+      "text": "お昼まだ？",
+      "timestamp": "2026-11-13T03:39:41.992Z"
+    },
+    {
+      "sender": "staff",
+      "text": "昨日の敵は今日の",
+      "timestamp": "2026-11-13T03:39:57.091Z"
+    },
+    {
+      "sender": "staff",
+      "text": "これでいけた？",
+      "timestamp": "2026-11-13T03:41:54.615Z"
+    },
+    {
+      "sender": "customer",
+      "text": "直ってます",
+      "timestamp": "2026-11-13T03:45:22.744Z"
+    },
+    {
+      "sender": "customer",
+      "text": "見分けつく？",
+      "channelInfo": "LINE",
+      "timestamp": "2026-11-13T03:48:18.655Z"
+    },
+    {
+      "sender": "customer",
+      "text": "見分け",
+      "channelInfo": "LINE",
+      "timestamp": "2026-11-13T03:48:38.099Z"
+    },
+    {
+      "sender": "customer",
+      "text": "見分けつきますか？",
+      "channelInfo": "LINE受信",
+      "timestamp": "2026-11-13T03:50:30.919Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ラインはok",
+      "channelInfo": "LINE受信",
+      "timestamp": "2026-11-13T03:57:22.213Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ポップアップ",
+      "timestamp": "2026-11-13T07:17:40.889Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ポップアップ",
+      "timestamp": "2026-11-13T07:18:27.545Z"
+    },
+    {
+      "sender": "customer",
+      "text": "へい",
+      "timestamp": "2026-11-13T07:18:55.377Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ポップアップ",
+      "timestamp": "2026-11-13T07:19:05.206Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ポップアップ",
+      "timestamp": "2026-11-13T07:19:15.521Z"
+    },
+    {
+      "sender": "customer",
+      "text": "ポップアップ",
+      "timestamp": "2026-11-13T07:19:21.281Z"
+    },
+    {
+      "sender": "customer",
+      "text": "はい",
+      "timestamp": "2026-11-13T07:19:25.525Z"
+    },
+    {
+      "sender": "customer",
+      "text": "文字化け",
+      "timestamp": "2026-11-13T07:20:08.457Z"
+    },
+    {
+      "sender": "customer",
+      "text": "文字化け",
+      "timestamp": "2026-11-13T07:20:19.269Z"
+    },
+    {
+      "sender": "customer",
+      "text": "さささ",
+      "timestamp": "2026-11-13T07:20:23.577Z"
+    },
+    {
+      "sender": "customer",
+      "text": "こんばんは",
+      "timestamp": "2026-11-13T07:29:54.938Z"
+    }
+  ],
+  "shuichi.shigemitsu@gmail.com": [
+    {
+      "sender": "customer",
+      "text": "３３３テスト",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.375Z",
+      "messageId": "<37790fcf-819b-d856-f0ac-4480dfd37fc5@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "あ",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.384Z",
+      "messageId": "<613ef5ce-8dc0-d962-d891-ba063dea8adc@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "ああ",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.395Z",
+      "messageId": "<6b7a17c4-13f5-eb75-9485-d85a8f5fded7@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "HI\n",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.401Z",
+      "messageId": "<91c7fc90-9d94-7226-a6dd-367ebf9c3749@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "こんにちは",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.408Z",
+      "messageId": "<b10dc151-3cd3-4f65-2e09-e43ce9bd0979@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "お疲れ様です",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.416Z",
+      "messageId": "<b22b8400-cac0-3ed9-77de-72b24a862c3e@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "お昼まだ？",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.423Z",
+      "messageId": "<0d042fa6-a37a-8624-7a77-43ffb7052229@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "昨日の敵は今日の",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.438Z",
+      "messageId": "<b0fa06b2-9a1e-b4af-a4bc-aaddda2a48bf@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "これでいけた？",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.444Z",
+      "messageId": "<5cfc0d97-ce94-02da-b283-3abdfe51d2a4@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "治ったかな？",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.450Z",
+      "messageId": "<3f07576b-e85e-9425-4de0-afd72c13edee@gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "ありがとうございいます\n\n2026年11月13日(金) 12:45 山科新店舗 賃貸窓口 <shuichi.shigemitsu@gmail.com>:\n\n> 治ったかな？\n",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.759Z",
+      "messageId": "<CAEmwyVjorppLT_6WVQ_uw2Kc9+P6gCCxgr7JWv0izQPYBYwiDw@mail.gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "治りましたか？\n\n2026年11月13日(金) 12:56 重光修一 <shuichi.shigemitsu@gmail.com>:\n\n> ありがとうございいます\n>\n> 2026年11月13日(金) 12:45 山科新店舗 賃貸窓口 <shuichi.shigemitsu@gmail.com>:\n>\n>> 治ったかな？\n>\n>\n",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:20:26.777Z",
+      "messageId": "<CAEmwyVh4ph5eXcF0ff7ioABuSBgtaYA78H4PAzhQqym6pbvBog@mail.gmail.com>"
+    },
+    {
+      "sender": "customer",
+      "text": "こんばんわ\n\n2026年11月13日(金) 14:16 重光修一 <shuichi.shigemitsu@gmail.com>:\n\n> 治りましたか？\n>\n> 2026年11月13日(金) 12:56 重光修一 <shuichi.shigemitsu@gmail.com>:\n>\n>> ありがとうございいます\n>>\n>> 2026年11月13日(金) 12:45 山科新店舗 賃貸窓口 <shuichi.shigemitsu@gmail.com>:\n>>\n>>> 治ったかな？\n>>\n>>\n",
+      "channelInfo": "メール受信 (shuichi.shigemitsu@gmail.com)",
+      "timestamp": "2026-11-13T05:58:24.206Z",
+      "messageId": "<CAEmwyVjH8v_nxVrmJQSLprtCHNOS9srZafjevYga=7S=FynJaA@mail.gmail.com>"
+    }
+  ]
+}
